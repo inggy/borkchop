@@ -51,6 +51,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define RGBLED_NUM 12    // Number of LEDs
 
+#define OLED_FONT_H "keyboards/borkchop/common/glcdfont.c"
+
 /* Backlight LEDs */
 //#define BACKLIGHT_PIN B6
 //#define BACKLIGHT_LEVELS 7
